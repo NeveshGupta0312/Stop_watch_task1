@@ -24,7 +24,8 @@ Stop button to pause the stopwatch.
 Reset button to reset the stopwatch to zero.
 Installation
 Clone the repository:
-git clone https://github.com/RichardMiruka/Stopwatch.git
+https://github.com/NeveshGupta0312/Stop_watch_task1
+
 
 Navigate to the project directory:
 cd Stopwatch
